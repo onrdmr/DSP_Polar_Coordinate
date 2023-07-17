@@ -1,2 +1,2 @@
 # DSP_Polar_Coordinate
-it add five polar component together.
+Fourier Analysis Homework. You can understand what is polar coordinates by using this app.
